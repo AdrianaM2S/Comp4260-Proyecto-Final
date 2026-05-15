@@ -3,7 +3,7 @@
 ---
 
 ## 🧑‍💻 Integrantes del Equipo
-- Benyahir Y. Martínez Hermina - R00624824 - bmm68benya@gmail.com
+- Benyahir Y. Martínez Hermina - R00624824 - bmartinez4824@arecibointer.edu
 - Adriana M. Marrero Sanchéz - R0062700 - ?
 
 ---
