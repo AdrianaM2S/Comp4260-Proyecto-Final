@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Integrantes del Equipo
 - Benyahir Y. Martínez Hermina - R00624824 - bmartinez4824@arecibointer.edu
-- Adriana M. Marrero Sanchéz - R0062700 - amarrero7200@arecibointer.edu
+- Adriana M. Marrero Sánchez - R0062700 - amarrero7200@arecibointer.edu
 
 ---
 
@@ -39,15 +39,13 @@ Describe brevemente tu aplicación:
 ---
 
 ## ⚙️ Despliegue y Configuración
-
-### 1. Preparacion del codigo
   
-### 2. Configuración en Azure
-- Pasos realizados en Azure Portal
-- Configuración del App Service
-- Variables de entorno definidas (nombres, no valores)
-- Configuración del SQL Server
--
+### 1. Configuración en Azure
+- Se creo una Base de datos en Microsoft Azure
+- Se le establecio a esa base de datos reglas de firewall con el IP del cliente actual
+- Se establecio el App Service en Azure para almacenar los archivos cargados por los usuarios.
+- Donde se definieron las variables de entorno para entrelazar el app con la base de datos
+- Tabmbien se creo un Storage Account en Azure para 
 
 
 ---
@@ -55,12 +53,15 @@ Describe brevemente tu aplicación:
 ## 💻 Enlace a la Aplicación Desplegada
 > [https://gestionadordetareas.azurewebsites.net](https://gestionadordetareas.azurewebsites.net) - Benyahir Y. Martinez Hermina
 
-> [https:// ]() - Adriana M. Marrero Sanchéz
+> [https:// ]() - Adriana M. Marrero Sánchez
 ---
 
 ## 💸 Estimación del Costo (Azure Pricing Calculator)
 
-> ![]()
+> ![Costo-DB](./Costo/costo-DB.png)
+> ![Costo-AppService](./Costo/costo-App.png)
+> ![Costo-Storage](./Costo/costo-Storage.png)
+> ![Costo-Final](./Costo/CostoFinal.png)
 
 ---
 
@@ -96,7 +97,7 @@ Describe brevemente tu aplicación:
 ## 📚 Repositorio del Código
 Incluye el link al repositorio de GitHub (debe estar público o accesible para el profesor):
 > [https://github.com/BenyahirMartinez2004/Comp4260-Projecto-Gestionador-de-Tareas.git](https://github.com/BenyahirMartinez2004/Comp4260-Projecto-Gestionador-de-Tareas.git) - Benyahir Y. Martínez Hermina
-> [https://github.com/AdrianaM2S/Comp4260-Projecto-Gestionador-de-Tareas.git](https://github.com/AdrianaM2S/Comp4260-Projecto-Gestionador-de-Tareas.git) - Adriana M. Marrero Sanchéz
+> [https://github.com/AdrianaM2S/Comp4260-Projecto-Gestionador-de-Tareas.git](https://github.com/AdrianaM2S/Comp4260-Projecto-Gestionador-de-Tareas.git) - Adriana M. Marrero Sánchez
 ---
 
 ## 📄 Instrucciones para Reproducir el Proyecto
