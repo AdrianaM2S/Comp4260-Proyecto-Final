@@ -67,18 +67,50 @@ Describe brevemente tu aplicación:
 
 ## 📁 Capturas del Portal de Azure
 - Microsoft Azure SQL Database:
-  >![1](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/1.png)
-  >![2](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/2.png)
-  >![3](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/3.png)
-  >![4](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/4.png)
-  >![5](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/5.png)
-  >![6](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/6.png)
-- Microsoft Azure App Service:
-  >![1](./Documentación-AppService/AppService-Gestion_de_Tareas-/1.png)
-- Microsoft Azure Storage Account:
-  >![1]()
+  >![Creando Base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/1.png)
+  >![Creando Servidor de la Base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/2.png)
+  >![Creando Servidor de la base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/3.png)
+  >![Creando Base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/4.png)
+  >![Base de datos creada](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/5.png)
+  >![Regla para la base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Benyahir/6.png)
+  ---
+  >![Creando Base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Adriana/1.png)
+  >![Creando Servidor de la Base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Adriana/2.png)
+  >![Creando Servidor de la base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Adriana/3.png)
+  >![Creando Base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Adriana/4.png)
+  >![Base de datos creada](./Documentación-DB/DB-Gestion_de_Tareas-Adriana/5.png)
+  >![Regla para la base de datos](./Documentación-DB/DB-Gestion_de_Tareas-Adriana/6.png)
 
+- Microsoft Azure App Service:
+  >![Creando App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/1.png)
+  >![App Service creado](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/2.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/3.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/4.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/5.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/6.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/7.png)
+  >![Congfigurandon Github al App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/8.png)
+  >![Congfigurandon Github al App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/9.png)
+  >![Congfigurandon Github al App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Benyahir/10.png)
+  ---
+  >![Creando App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/1.png)
+  >![App Service creado](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/2.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/3.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/4.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/5.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/6.png)
+  >![Configurando las variables del App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/7.png)
+  >![Congfigurandon Github al App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/8.png)
+  >![Congfigurandon Github al App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/9.png)
+  >![Congfigurandon Github al App Service](./Documentacion-AppService/AppService-Gestion_de_Tareas-Adriana/10.png)
+  
+- Microsoft Azure Storage Account:
+  >![Creando el Storage Account](./Documentacion-StorageAccount/StorageAccount-Gestion_de_Tareas-Adriana/1.png)
+  >![Creando el Storage Account](./Documentacion-StorageAccount/StorageAccount-Gestion_de_Tareas-Adriana/2.png)
+  >![Storage Account creado](./Documentacion-StorageAccount/StorageAccount-Gestion_de_Tareas-Adriana/3.png)
 ---
+  >![Creando el Storage Account](./Documentacion-StorageAccount/StorageAccount-Gestion_de_Tareas-Benyahir/1.png)
+  >![Storage Acount creado](./Documentacion-StorageAccount/StorageAccount-Gestion_de_Tareas-Benyahir/2.png)
 
 ## 📘 Lecciones Aprendidas
 - ¿Qué retos enfrentaron y cómo los resolvieron?
