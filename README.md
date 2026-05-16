@@ -146,13 +146,13 @@
 ---
 
 ## ✅ Checklist Final
-- [ ] App funcional y desplegada
-- [ ] Servicios gratuitos utilizados correctamente
-- [ ] Diagrama de arquitectura incluido
-- [ ] Documentación clara y completa
-- [ ] Costos estimados incluidos
-- [ ] Repositorio disponible en GitHub
-- [ ] Lecciones aprendidas y reflexión final escritas
+- [x] App funcional y desplegada
+- [x] Servicios gratuitos utilizados correctamente
+- [x] Diagrama de arquitectura incluido
+- [x] Documentación clara y completa
+- [x] Costos estimados incluidos
+- [x] Repositorio disponible en GitHub
+- [x] Lecciones aprendidas y reflexión final escritas
 
 ---
 
