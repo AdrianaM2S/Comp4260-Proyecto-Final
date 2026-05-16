@@ -25,7 +25,7 @@
 |-----------------------|--------------------------------------------------|--------------------------------|
 | Azure App Service     | Donde se aloja nuestras aplicaciones web y también donde podemos controlar el funcionamiento de esta  | ✅ Sí                           |
 | Azure SQL Database    | Recurso donde se estará almacenando los datos del sistema de las aplicaciones. | ✅ Sí                           |
-| Azure Storage Account | Lugar donde se almacena archivos cargados por los usuarios de las aplicaciones. | ✅ Sí                           |
+| Azure Storage Account | Proporciona un espacio de nombres único para los datos de Azure Storage que es accesible desde cualquier lugar del mundo mediante HTTP o HTTPS. | ✅ Sí                           |
 | Flask                 | Funciona como un servidor web que gestiona rutas de HTTP, renderizado las plantillas de HTML del proyecto. | ✅ Sí                      |
 | Boostrap              | Se implemento para añadir a la aplicación una interfaz grafica mas amigable a los usuarios que utilizan la aplicación.   | ✅ Sí            |
 | Repositorio de Github | Donde se localiza el código de nuestras aplicaciones web. En base a estar ese código en el repositorio Azure App Service coje ese código y realiza el despliegue en la nube.       | ✅ Sí       |
