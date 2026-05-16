@@ -21,7 +21,7 @@
 
 ## ☁️ Servicios de Azure Utilizados
 
-| Servicio              | Propósito dentro del proyecto                    | Gratuito en Azure for Students |
+| Servicio              | Propósito dentro del proyecto                    | Gratuito |
 |-----------------------|--------------------------------------------------|--------------------------------|
 | Azure App Service     | Donde se aloja nuestras aplicaciones web y también donde podemos controlar el funcionamiento de esta  | ✅ Sí                           |
 | Azure SQL Database    | Recurso donde se estará almacenando los datos del sistema de las aplicaciones. | ✅ Sí                           |
